@@ -2804,7 +2804,7 @@ img {
 	static-hero
 --------------------------------------------------------------*/
 .static-hero {
-  background: url("../images/slider/slide-1.jpg") center center/cover no-repeat
+  background: url("../images/slider/01.jpeg") center center/cover no-repeat
     local;
 }
 
@@ -2884,7 +2884,7 @@ img {
 }
 
 .static-hero-s3 {
-  background: url("../images/slider/slide-1.jpg") center center/cover no-repeat
+  background: url("../images/slider/01.jpeg") center center/cover no-repeat
     local;
   position: relative;
 }
@@ -2905,7 +2905,7 @@ img {
 }
 
 .static-hero-s4 {
-  background: url("../images/slider/slide-2.jpg") center center/cover no-repeat
+  background: url("../images/slider/02.jpeg") center center/cover no-repeat
     local;
 }
 
@@ -4367,7 +4367,7 @@ img {
 
 .event-section .event-grids .grid {
   background: #fff;
-  width: calc(50% - 30px);
+  width: calc(100% - 30px);
   float: left;
   padding: 60px;
   margin: 0 15px 30px;
